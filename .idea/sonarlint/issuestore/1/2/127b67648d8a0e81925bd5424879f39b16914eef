@@ -1,0 +1,10 @@
+
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ž’ƒ…ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ž’ƒ…ûÿÿÿÿ
+K
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹øÖ¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ç®Â
+P
+java:S1118":Add a private constructor to hide the implicit public one.(…ºƒÇ

@@ -1,0 +1,11 @@
+
+`
+java:S1192<"JDefine a constant instead of duplicating this literal "Balance: " 3 times.(óíß‰
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(€¹Úæ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(óíß‰
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Šéø¤
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(£ìøûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(óíß‰
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(óíß‰
+E
+java:S1068"/Remove this unused "dateCreated" private field.(“ı­Ç

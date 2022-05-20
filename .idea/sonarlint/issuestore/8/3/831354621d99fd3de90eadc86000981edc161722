@@ -1,0 +1,26 @@
+
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÚÅT
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÚÅT
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÚÅT
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÿ ß
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óïáûÿÿÿÿ
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¨æÑşÿÿÿÿ
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ôØùÿÿÿÿ
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©“¨³üÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®¡ö
+
+java:S14885"dImmediately return this expression instead of assigning it to the temporary variable "Discriminant".(€ôØùÿÿÿÿ
+x
+java:S1488:"]Immediately return this expression instead of assigning it to the temporary variable "Root1".(©“¨³üÿÿÿÿ
+s
+java:S1488A"]Immediately return this expression instead of assigning it to the temporary variable "Root2".(Õ®¡ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤¬Íäÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ãôü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãôü
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‹ºÓó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ºÓó
+@
+java:S3457"%String contains no format specifiers.(ª˜Şúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª˜Şúÿÿÿÿ

@@ -1,0 +1,12 @@
+
+^
+java:S6208'"CMerge the previous cases into this one using comma-separated label.(Ìþ‚Ùÿÿÿÿÿ
+^
+java:S6208-"CMerge the previous cases into this one using comma-separated label.(ÎÜñÞûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù–Š®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÑá–þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þ«Þ‹ùÿÿÿÿ
+A
+java:S1905"&Remove this unnecessary cast to "int".(ý¼è–ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þ«Þ‹ùÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(³¶à•
