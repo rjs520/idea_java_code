@@ -49,8 +49,6 @@ g
 7mycodes/src/experiment/experiment4/GeometricObject.java,8\3\838f61f882eb10fcbc8f838867ec50f6c84163b9
 ]
 -mycodes/src/experiment/experiment5/Union.java,e\c\ec102d9b8c30c9c4d93d8a3fd255010010521d86
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 c
 3mycodes/src/experiment/experiment2/Combination.java,6\1\61abce8c38e93f63db93d6d967e1e7c9faf45a6c
 K
@@ -69,12 +67,6 @@ Z
 *mycodes/src/books/MyInterfaceAbstract.java,f\0\f0d778dcc087b34f55397305d143739e0f174cdd
 g
 7mycodes/src/experiment/experiment6/Hydrogenballoon.java,6\b\6b966d73f0e0786c832e51fb93f2aae5d8a4e604
-^
-.mycodes/src/experiment/experiment6/Hollow.java,7\0\702bbbac3595033b0009a2982ebfd09fba2b3322
-g
-7mycodes/src/experiment/experiment6/TestExperiment6.java,c\2\c29337865320851b5043bc5abb37e8044c555f44
-^
-.mycodes/src/experiment/experiment6/Bamboo.java,a\a\aa793893e84455440249e8e473d977cb90d2ff1a
 ]
 -mycodes/src/experiment/experiment6/Plant.java,2\7\2789c5b46a9809d9b5458c902d3b87c662a0dd9a
 L
@@ -83,5 +75,9 @@ N
 mycodes/src/books/Student.java,9\d\9d45a5c9786bd47ca0c46f79def558aa3e363c83
 c
 3mycodes/src/experiment/experiment6/TestPerson2.java,4\6\46e981c88b987025312a9b64e459a9a526b36b02
-_
-/mycodes/src/experiment/experiment6/Balloon.java,7\9\79308b240abd619b8df3aabf70573b031393f866
+^
+.mycodes/src/experiment/experiment6/Hollow.java,7\0\702bbbac3595033b0009a2982ebfd09fba2b3322
+c
+3mycodes/src/experiment/experiment6/TestPerson1.java,e\5\e56fcd32ff59adf64ae2aedc6f9b550f485621d4
+g
+7mycodes/src/experiment/experiment6/TestExperiment6.java,c\2\c29337865320851b5043bc5abb37e8044c555f44

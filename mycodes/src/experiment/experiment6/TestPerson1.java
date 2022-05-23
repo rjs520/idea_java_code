@@ -24,6 +24,4 @@ public class TestPerson1 {
             System.out.println(i);
         }
     }
-
-
 }
